@@ -6,7 +6,7 @@ title: Membuat blog statis di github-pages hanya 5 menit menggunakan Jekyll Now
 
 Penjelasan Tentang Jekyll Now adalah sebuah SSG (static site generator) yang biasanya digunakan untuk membuat blog yang hostingnya di github pages. Dengan ini kamu tidak perlu susah-susah untuk membuat blog di Jekyll ini konsepnya menggunakan markdown untuk membuat post atau halaman blog.
 
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+![Jekyll Now Theme Screenshot]({{ site.baseurl }}/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
 ## Intro
 
@@ -14,13 +14,13 @@ Sebenarnya anda juga bisa melihat quick start nya di web resminya tetapi banyak 
 
 ## Step 1
 
-![Step 1](/images/step1.gif "Step 1")
+![Step 1]({{ site.baseurl }}/images/step1.gif "Step 1")
 
 **Pertama** , kalian fork terlebih dahulu repository dari jekyll disini saya mengira bahwa anda sudah memiliki akun github atau sudah melakukan login dengan akun anda.
 
 ## Step 2
 
-![_config.yml](/images/config.png "_config.yml")
+![_config.yml]({{ site.baseurl }}/images/config.png "_config.yml")
 Jika sudah memfork kemudian kita custom view agar bisa tampil dan bisa diakses.
 
 > Disini ada beberapa tahapan yang harus kita lakukan 
@@ -43,7 +43,7 @@ Settingan blog terdapat di file _config.yml
 
 Edit `/_posts/2014-3-3-Hello-World.md` Untuk gaya halaman bisa merefrensikan dari[Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) buat kreasimu.
 
-![First Post](/images/first-post.png "First Post")
+![First Post]({{ site.baseurl }}/images/first-post.png "First Post")
 
 Diatas adalah gaya penulisan markdown yang digunakan pada jekyll-now.
 
