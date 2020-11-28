@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog about of my experience, knowledge, and story of life.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently a student ,I study in smeas (smkn1surabaya) - [more-info](https://rian.codes).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rifirwan26@gmail.com](mailto:rifirwan26@gmail.com)
