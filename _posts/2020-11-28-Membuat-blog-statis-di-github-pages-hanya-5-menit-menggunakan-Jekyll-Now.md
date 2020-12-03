@@ -26,7 +26,7 @@ Jika sudah memfork kemudian kita custom view agar bisa tampil dan bisa diakses.
 > Disini ada beberapa tahapan yang harus kita lakukan 
 
 > 1. cari menu settings pada repository ini lalu klik
-> 2. edit nama repository ini dengan nama username github ditambah domain nya <yourgithubusername.github.io> lalu rename
+> 2. edit nama repository ini dengan nama username github ditambah domain nya `yourgithubusername.github.io` lalu rename
 > 3. jika sudah ,scroll ke bawah terdapat section Github Pages di source pilih branch master lalu pilih folder root kemudian save
 
 Tunggu beberapa saat , kemudian buka tab baru dan ketik [yourusernamegithub.github.io].
