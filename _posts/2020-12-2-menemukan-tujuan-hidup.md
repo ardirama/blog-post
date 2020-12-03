@@ -9,7 +9,7 @@ Baiklah disini saya akan memperkenalkan konsep hidup bahagia dan menjadikan hidu
 
 ![orang tua jepang](https://upload.wikimedia.org/wikipedia/commons/6/64/Zhuang_Zedong_%281436472690%29.jpg)
 
-##Konsep ikigai
+## Konsep ikigai
 
 ![ikigai](https://i0.wp.com/quipperhome.wpcomstaging.com/wp-content/uploads/2019/09/ikigai-konsep.png?w=537&ssl=1)
 
